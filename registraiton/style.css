@@ -1,0 +1,12 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.form-div{
+    background-color: rgb(249, 246, 246);
+    height: 100vh;
+}
+.register-form{
+    border-style: groove !important;
+    border-radius: 2% !important;
+}
